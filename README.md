@@ -31,3 +31,7 @@ As a User
 So that I can find links for a relevant topic
 I'd like to be able to filter my links by their tags
 ```
+
+### Domain Model
+
+![alt text](images/IMG_2270.JPG "Domain Model")
