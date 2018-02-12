@@ -3,7 +3,7 @@ require 'sinatra/base'
 class Controller < Sinatra::Base
 
   get '/' do
-    "Hello Steve"
+    erb(:index)
   end
 
 end
